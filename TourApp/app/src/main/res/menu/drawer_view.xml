@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_first_fragment"
+            android:title="@string/eat"
+            app:popupTheme="@style/DrawerTheme" />
+
+        <item
+            android:id="@+id/nav_second_fragment"
+            android:title="@string/drink"
+            app:popupTheme="@style/DrawerTheme" />
+
+        <item
+            android:id="@+id/nav_third_fragment"
+            android:title="@string/dance"
+            app:popupTheme="@style/DrawerTheme" />
+
+        <item
+            android:id="@+id/nav_fourth_fragment"
+            android:title="@string/oh_really"
+            app:popupTheme="@style/DrawerTheme" />
+    </group>
+
+</menu>

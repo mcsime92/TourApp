@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">TourApp</string>
+    <string name="drawer_open">drawer open</string>
+    <string name="drawer_close">drawer close</string>
+
+    <string-array name="items">
+        <item>Eat</item>
+        <item>Drink</item>
+        <item>Dance!</item>
+        <item>Oh Really?</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="eat">Eat</string>
+    <string name="drink">Drink</string>
+    <string name="dance">Dance</string>
+    <string name="oh_really">Oh Really?</string>
+
+    <!-- Text -->
+    <string name="welcome_to_krakow_tour_app">Welcome to Krakow Tour App!</string>
+
+    <string name="welcome_text">Krakow is a millennial city. Within this place that has survived plague, fires, flood, wars,
+        you will surely find something to your liking. In the recent years the city has opened up to the world and Europe, and
+        is now a place many foreigners call home. It provides a wide offer of international cuisine, all of this in a city that
+        counts about 800k citizen. Quite dense! \n \nSo how to get started? well, let\'s start by dragging our navigation drawer
+        from the left to the right. You will enjoy 4 categories: Eat, Drink, Dance, and Oh Really. The latter will offer
+        you a wide choice of surprising facts. So, what are you waiting for? Go visit!</string>
+    <string name="dance_title1">FamilyClub</string>
+    <string name="dance_descr1">This place is perfect for families.</string>
+    <string name="dance_title2">HipHopClub</string>
+    <string name="dance_descr2">Where groundbreakers meet!</string>
+    <string name="dance_title3">LadiesOnly</string>
+    <string name="dance_descr3">Free yourselves ladies</string>
+    <string name="dance_title4">ColorClub</string>
+    <string name="dance_descr4">Come in white, get out colored</string>
+    <string name="ohreally_title1">Pigeons</string>
+    <string name="ohreally_title2">Boulet</string>
+    <string name="ohreally_title3">Cemetery Lamp</string>
+    <string name="ohreally_title4">River</string>
+    <string name="ohreally_descr1">Pigeons on the market are former soldiers, waiting to be paid by the dead king.</string>
+    <string name="ohreally_descr2">This shackle used to be fashionable. In another galaxy.</string>
+    <string name="ohreally_descr3">Those lamps were warning passingbyers that this was the grave caused by the Black Death.</string>
+    <string name="ohreally_descr4">The river used to have two arms, merging downtown. To prevent diseases, this branch was dried out a long time ago.</string>
+    <string name="drink_descr1">Where the classy people meet.</string>
+    <string name="drink_descr2">Cola, at its best.</string>
+    <string name="drink_descr3">For the lovers of colorful drinks.</string>
+    <string name="drink_descr4">Because non-alcoholic doesn\'t have to be boring.</string>
+    <string name="drink_title1">DrinkFashion</string>
+    <string name="drink_title2">ColaCola</string>
+    <string name="drink_title3">MultiColo</string>
+    <string name="drink_title4">NonAlCool</string>
+    <string name="eat_title1">The friendly restaurant</string>
+    <string name="eat_title2">BurgerQueen</string>
+    <string name="eat_title3">Kebassa?</string>
+    <string name="eat_title4">PizzaHouse</string>
+    <string name="eat_descr1">This place is not only friendly, it also serves a wide offer of fresh and tasty meals.</string>
+    <string name="eat_descr2">For the hungry ladies.</string>
+    <string name="eat_descr3">This Kebab is held by an italian with a terrible sense of humor. But the food is decent.</string>
+    <string name="eat_descr4">The temple of pizzas! Ask for the prosciutto, you will get a free dessert.</string>
+    <string name="catg_drawer1">Eat</string>
+    <string name="catg_drawer2">Drink</string>
+    <string name="catg_drawer3">Dance !</string>
+    <string name="catg_drawer4">Oh Really ?</string>
+    <string name="catg_drawer_default">Home</string>
+
+</resources>
